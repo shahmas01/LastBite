@@ -1,0 +1,546 @@
+[
+    {
+        "name": "Tomato Omelette",
+        "ingredients": [
+            "egg",
+            "tomato"
+        ],
+        "meal_type": "breakfast",
+        "cook_time": "10 min",
+        "difficulty": "easy"
+    },
+    {
+        "name": "Egg Sandwich",
+        "ingredients": [
+            "egg",
+            "bread"
+        ],
+        "meal_type": "breakfast",
+        "cook_time": "10 min",
+        "difficulty": "easy"
+    },
+    {
+        "name": "French Toast",
+        "ingredients": [
+            "bread",
+            "egg",
+            "milk"
+        ],
+        "meal_type": "breakfast",
+        "cook_time": "15 min",
+        "difficulty": "easy"
+    },
+    {
+        "name": "Banana Pancake",
+        "ingredients": [
+            "banana",
+            "egg",
+            "milk",
+            "flour"
+        ],
+        "meal_type": "breakfast",
+        "cook_time": "20 min",
+        "difficulty": "medium"
+    },
+    {
+        "name": "Vegetable Omelette",
+        "ingredients": [
+            "egg",
+            "onion",
+            "tomato",
+            "capsicum"
+        ],
+        "meal_type": "breakfast",
+        "cook_time": "10 min",
+        "difficulty": "easy"
+    },
+    {
+        "name": "Milk Smoothie",
+        "ingredients": [
+            "milk",
+            "banana"
+        ],
+        "meal_type": "breakfast",
+        "cook_time": "5 min",
+        "difficulty": "easy"
+    },
+    {
+        "name": "Cheese Sandwich",
+        "ingredients": [
+            "bread",
+            "cheese",
+            "butter"
+        ],
+        "meal_type": "breakfast",
+        "cook_time": "10 min",
+        "difficulty": "easy"
+    },
+    {
+        "name": "Fruit Salad",
+        "ingredients": [
+            "apple",
+            "banana",
+            "orange"
+        ],
+        "meal_type": "breakfast",
+        "cook_time": "5 min",
+        "difficulty": "easy"
+    },
+    {
+        "name": "Vegetable Upma",
+        "ingredients": [
+            "semolina",
+            "onion",
+            "carrot"
+        ],
+        "meal_type": "breakfast",
+        "cook_time": "20 min",
+        "difficulty": "medium"
+    },
+    {
+        "name": "Masala Omelette",
+        "ingredients": [
+            "egg",
+            "onion",
+            "chilli"
+        ],
+        "meal_type": "breakfast",
+        "cook_time": "10 min",
+        "difficulty": "easy"
+    },
+    {
+        "name": "Tomato Pasta",
+        "ingredients": [
+            "pasta",
+            "tomato",
+            "garlic"
+        ],
+        "meal_type": "lunch",
+        "cook_time": "25 min",
+        "difficulty": "medium"
+    },
+    {
+        "name": "Vegetable Pasta",
+        "ingredients": [
+            "pasta",
+            "tomato",
+            "capsicum",
+            "onion"
+        ],
+        "meal_type": "lunch",
+        "cook_time": "25 min",
+        "difficulty": "medium"
+    },
+    {
+        "name": "Veg Sandwich",
+        "ingredients": [
+            "bread",
+            "tomato",
+            "cucumber",
+            "onion"
+        ],
+        "meal_type": "lunch",
+        "cook_time": "10 min",
+        "difficulty": "easy"
+    },
+    {
+        "name": "Grilled Cheese Sandwich",
+        "ingredients": [
+            "bread",
+            "cheese",
+            "butter"
+        ],
+        "meal_type": "lunch",
+        "cook_time": "15 min",
+        "difficulty": "easy"
+    },
+    {
+        "name": "Fried Rice",
+        "ingredients": [
+            "rice",
+            "carrot",
+            "peas",
+            "egg"
+        ],
+        "meal_type": "lunch",
+        "cook_time": "25 min",
+        "difficulty": "medium"
+    },
+    {
+        "name": "Veg Noodles",
+        "ingredients": [
+            "noodles",
+            "carrot",
+            "capsicum",
+            "onion"
+        ],
+        "meal_type": "lunch",
+        "cook_time": "20 min",
+        "difficulty": "medium"
+    },
+    {
+        "name": "Tomato Soup",
+        "ingredients": [
+            "tomato",
+            "garlic",
+            "onion"
+        ],
+        "meal_type": "lunch",
+        "cook_time": "20 min",
+        "difficulty": "easy"
+    },
+    {
+        "name": "Egg Fried Rice",
+        "ingredients": [
+            "rice",
+            "egg",
+            "onion"
+        ],
+        "meal_type": "lunch",
+        "cook_time": "20 min",
+        "difficulty": "easy"
+    },
+    {
+        "name": "Vegetable Curry",
+        "ingredients": [
+            "potato",
+            "carrot",
+            "peas",
+            "onion"
+        ],
+        "meal_type": "lunch",
+        "cook_time": "30 min",
+        "difficulty": "medium"
+    },
+    {
+        "name": "Paneer Sandwich",
+        "ingredients": [
+            "paneer",
+            "bread",
+            "butter"
+        ],
+        "meal_type": "lunch",
+        "cook_time": "15 min",
+        "difficulty": "easy"
+    },
+    {
+        "name": "Bread Omelette",
+        "ingredients": [
+            "bread",
+            "egg"
+        ],
+        "meal_type": "dinner",
+        "cook_time": "10 min",
+        "difficulty": "easy"
+    },
+    {
+        "name": "Vegetable Stir Fry",
+        "ingredients": [
+            "carrot",
+            "beans",
+            "capsicum",
+            "onion"
+        ],
+        "meal_type": "dinner",
+        "cook_time": "15 min",
+        "difficulty": "easy"
+    },
+    {
+        "name": "Egg Curry",
+        "ingredients": [
+            "egg",
+            "onion",
+            "tomato"
+        ],
+        "meal_type": "dinner",
+        "cook_time": "25 min",
+        "difficulty": "medium"
+    },
+    {
+        "name": "Vegetable Soup",
+        "ingredients": [
+            "carrot",
+            "beans",
+            "onion"
+        ],
+        "meal_type": "dinner",
+        "cook_time": "20 min",
+        "difficulty": "easy"
+    },
+    {
+        "name": "Pasta Alfredo",
+        "ingredients": [
+            "pasta",
+            "milk",
+            "cheese"
+        ],
+        "meal_type": "dinner",
+        "cook_time": "25 min",
+        "difficulty": "medium"
+    },
+    {
+        "name": "Paneer Curry",
+        "ingredients": [
+            "paneer",
+            "tomato",
+            "onion"
+        ],
+        "meal_type": "dinner",
+        "cook_time": "30 min",
+        "difficulty": "medium"
+    },
+    {
+        "name": "Veg Fried Noodles",
+        "ingredients": [
+            "noodles",
+            "carrot",
+            "capsicum"
+        ],
+        "meal_type": "dinner",
+        "cook_time": "20 min",
+        "difficulty": "easy"
+    },
+    {
+        "name": "Potato Curry",
+        "ingredients": [
+            "potato",
+            "onion",
+            "tomato"
+        ],
+        "meal_type": "dinner",
+        "cook_time": "25 min",
+        "difficulty": "easy"
+    },
+    {
+        "name": "Tomato Rice",
+        "ingredients": [
+            "rice",
+            "tomato",
+            "onion"
+        ],
+        "meal_type": "dinner",
+        "cook_time": "20 min",
+        "difficulty": "easy"
+    },
+    {
+        "name": "Vegetable Khichdi",
+        "ingredients": [
+            "rice",
+            "lentils",
+            "carrot"
+        ],
+        "meal_type": "dinner",
+        "cook_time": "30 min",
+        "difficulty": "medium"
+    },
+    {
+        "name": "Banana Milkshake",
+        "ingredients": [
+            "banana",
+            "milk",
+            "sugar"
+        ],
+        "meal_type": "snack",
+        "cook_time": "5 min",
+        "difficulty": "easy"
+    },
+    {
+        "name": "Fruit Smoothie",
+        "ingredients": [
+            "banana",
+            "apple",
+            "milk"
+        ],
+        "meal_type": "snack",
+        "cook_time": "5 min",
+        "difficulty": "easy"
+    },
+    {
+        "name": "Toast with Butter",
+        "ingredients": [
+            "bread",
+            "butter"
+        ],
+        "meal_type": "snack",
+        "cook_time": "5 min",
+        "difficulty": "easy"
+    },
+    {
+        "name": "Peanut Butter Toast",
+        "ingredients": [
+            "bread",
+            "peanut butter"
+        ],
+        "meal_type": "snack",
+        "cook_time": "5 min",
+        "difficulty": "easy"
+    },
+    {
+        "name": "Egg Toast",
+        "ingredients": [
+            "bread",
+            "egg"
+        ],
+        "meal_type": "snack",
+        "cook_time": "10 min",
+        "difficulty": "easy"
+    },
+    {
+        "name": "Cheese Toast",
+        "ingredients": [
+            "bread",
+            "cheese"
+        ],
+        "meal_type": "snack",
+        "cook_time": "10 min",
+        "difficulty": "easy"
+    },
+    {
+        "name": "Veg Wrap",
+        "ingredients": [
+            "bread",
+            "tomato",
+            "cucumber"
+        ],
+        "meal_type": "snack",
+        "cook_time": "10 min",
+        "difficulty": "easy"
+    },
+    {
+        "name": "Milk Coffee",
+        "ingredients": [
+            "milk",
+            "coffee"
+        ],
+        "meal_type": "snack",
+        "cook_time": "5 min",
+        "difficulty": "easy"
+    },
+    {
+        "name": "Fruit Yogurt",
+        "ingredients": [
+            "yogurt",
+            "banana",
+            "apple"
+        ],
+        "meal_type": "snack",
+        "cook_time": "5 min",
+        "difficulty": "easy"
+    },
+    {
+        "name": "Boiled Eggs",
+        "ingredients": [
+            "egg"
+        ],
+        "meal_type": "snack",
+        "cook_time": "8 min",
+        "difficulty": "easy"
+    },
+    {
+        "name": "Simple Salad",
+        "ingredients": [
+            "cucumber",
+            "tomato",
+            "onion"
+        ],
+        "meal_type": "side",
+        "cook_time": "5 min",
+        "difficulty": "easy"
+    },
+    {
+        "name": "Veg Raita",
+        "ingredients": [
+            "yogurt",
+            "cucumber"
+        ],
+        "meal_type": "side",
+        "cook_time": "5 min",
+        "difficulty": "easy"
+    },
+    {
+        "name": "Garlic Bread",
+        "ingredients": [
+            "bread",
+            "garlic",
+            "butter"
+        ],
+        "meal_type": "side",
+        "cook_time": "10 min",
+        "difficulty": "easy"
+    },
+    {
+        "name": "Mashed Potato",
+        "ingredients": [
+            "potato",
+            "milk",
+            "butter"
+        ],
+        "meal_type": "side",
+        "cook_time": "20 min",
+        "difficulty": "easy"
+    },
+    {
+        "name": "Veg Cutlet",
+        "ingredients": [
+            "potato",
+            "carrot",
+            "peas"
+        ],
+        "meal_type": "side",
+        "cook_time": "25 min",
+        "difficulty": "medium"
+    },
+    {
+        "name": "Onion Rings",
+        "ingredients": [
+            "onion",
+            "flour"
+        ],
+        "meal_type": "side",
+        "cook_time": "20 min",
+        "difficulty": "medium"
+    },
+    {
+        "name": "Carrot Soup",
+        "ingredients": [
+            "carrot",
+            "onion"
+        ],
+        "meal_type": "side",
+        "cook_time": "20 min",
+        "difficulty": "easy"
+    },
+    {
+        "name": "Cucumber Sandwich",
+        "ingredients": [
+            "bread",
+            "cucumber",
+            "butter"
+        ],
+        "meal_type": "side",
+        "cook_time": "10 min",
+        "difficulty": "easy"
+    },
+    {
+        "name": "Veg Roll",
+        "ingredients": [
+            "bread",
+            "carrot",
+            "cabbage"
+        ],
+        "meal_type": "side",
+        "cook_time": "15 min",
+        "difficulty": "easy"
+    },
+    {
+        "name": "Corn Salad",
+        "ingredients": [
+            "corn",
+            "onion",
+            "tomato"
+        ],
+        "meal_type": "side",
+        "cook_time": "10 min",
+        "difficulty": "easy"
+    }
+]
